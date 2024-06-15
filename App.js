@@ -4,9 +4,9 @@ import TaskManager from './src/TaskManager';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    //<View style={styles.container}>
       <TaskManager />
-    </View>
+    //</View>
   );
 }
 
